@@ -15,8 +15,12 @@ export default function Card() {
                   <div className='flex justify-center items-center gap-2 text-red-800'> <SlCalender />04/september/2024</div>
                   <div className='flex justify-center items-center gap-2  text-red-800' ><FaCommentDots/> leave comment </div>
                 </div>
+                <div>
+                Keshav Mahavidyalaya, University of Delhi (Pitampura) is conducting an Internal Hackathon for SIH (Smart India Hackathon) 2024 on September 04, 2024 from 1:00 PM onwards, which is going to be a college-level shortlisting & nomination process for National-Level SIH participation.
+                </div>
+                <br />
                 <div >
-                  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laborum recusandae dignissimos architecto ratione voluptate perferendis voluptas vel dolore nobis laudantium temporibus sint cumque distinctio quia, et similique! Voluptates blanditiis impedit at est, dolore natus recusandae itaque officiis ab illum eveniet. Ad ab nesciunt quibusdam qui quia similique! Quos dolorem aliquid voluptatibus necessitatibus incidunt repellat quaerat veniam. Molestiae est exercitationem id autem molestias, praesentium natus impedit aperiam nemo enim dicta error explicabo laudantium eos repellat nobis. Consequatur laudantium earum dolorum ipsam porro nam alias nostrum similique asperiores, dolorem iusto voluptate deleniti at quia veniam dignissimos ut praesentium. Officia nobis aut.
+                Smart India Hackathon 2024 is a premiere nationwide initiative designed to engage students in solving some of the most pressing challenges faced in everyday life. Launched to foster a culture of innovation and practical problem-solving, SIH provides a dynamic platform for students to develop and showcase their creative solutions to real-world problems. By encouraging participants to think critically and innovatively, the Smart India Hackathon aims to bridge the gap between academic knowledge and practical application.
                 </div>
                 <div className='font-semibold my-3'><a href="https://sih.gov.in/sih2024PS">
                 <span className='font-normal'>The varied</span> #themes of #SIH2024 <span className='font-normal'>includes </span>#SmartAutomation, #Fitness&Sports, #Heritage&Culture, #Medtech/Biotech/Health tech, #AgricultureFoodtech & Rural Development, #SmartVehicles, #Transportation & Logistics, #Robotics & Drones, #SpaceTechnology, #Clean & Green Technology, #Travel & Toursim, #Renewable/Sustainable Energy, #Blockchain & Cyber Security, # Smart Education, #DisasterManagement, #Toys & Games, #SmartResourceConservation, #Miscellaneous.
