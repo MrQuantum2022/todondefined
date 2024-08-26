@@ -1,5 +1,5 @@
 import React from 'react'
-import banner from '../assets/banner1.png'
+import banner from '../assets/sihbanner.jpg'
 import { SlCalender } from "react-icons/sl";
 import { FaCommentDots } from "react-icons/fa";
 import Button from './Button';
