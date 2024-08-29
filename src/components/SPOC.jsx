@@ -4,7 +4,7 @@ import vinitaMam from "../assets/VinitaMam.png"
 export default function SPOC() {
   return (
     <div className='flex w-full flex-col items-center justify-center'>
-        <h1 className='text-5xl my-5 font-semibold text-center '>SPOC <br className='lg:hidden' /> Of The College</h1>
+        <h1 className='text-4xl my-5 font-semibold text-center '>SPOC <br className='lg:hidden' /> Of The College</h1>
         <div className='w-5/6 gap-5 flex flex-col lg:flex-row items-center justify-between'>
         <div className='w-60'>
         <img src={vinitaMam} className='w-60  border-4 border-white shadow-md' alt="" />

@@ -22,8 +22,8 @@ export default function Card() {
                 <div >
                 Smart India Hackathon 2024 is a premiere nationwide initiative designed to engage students in solving some of the most pressing challenges faced in everyday life. Launched to foster a culture of innovation and practical problem-solving, SIH provides a dynamic platform for students to develop and showcase their creative solutions to real-world problems. By encouraging participants to think critically and innovatively, the Smart India Hackathon aims to bridge the gap between academic knowledge and practical application.
                 </div>
-                <div className='font-semibold my-3'><a href="https://sih.gov.in/sih2024PS">
-                <span className='font-normal'>The varied</span> #themes of #SIH2024 <span className='font-normal'>includes </span>#SmartAutomation, #Fitness&Sports, #Heritage&Culture, #Medtech/Biotech/Health tech, #AgricultureFoodtech & Rural Development, #SmartVehicles, #Transportation & Logistics, #Robotics & Drones, #SpaceTechnology, #Clean & Green Technology, #Travel & Toursim, #Renewable/Sustainable Energy, #Blockchain & Cyber Security, # Smart Education, #DisasterManagement, #Toys & Games, #SmartResourceConservation, #Miscellaneous.
+                <div className='font-semibold my-3 text-blue-400'><a href="https://sih.gov.in/sih2024PS">
+                <span className='font-normal '>The varied</span> #themes of #SIH2024 <span className='font-normal'>includes </span>#SmartAutomation, #Fitness&Sports, #Heritage&Culture, #Medtech/Biotech/Health tech, #AgricultureFoodtech & Rural Development, #SmartVehicles, #Transportation & Logistics, #Robotics & Drones, #SpaceTechnology, #Clean & Green Technology, #Travel & Toursim, #Renewable/Sustainable Energy, #Blockchain & Cyber Security, # Smart Education, #DisasterManagement, #Toys & Games, #SmartResourceConservation, #Miscellaneous.
                 </a>
                 </div>
             </div>

@@ -9,7 +9,7 @@ import nehaMam from "../assets/NehaMam.png"
 export default function Judges() {
   return (
     <div className="flex flex-col justify-center items-center my-5">
-      <h1 className="text-5xl  font-semibold mt-5 pb-10 text-center">Judges of the<br className="lg:hidden"/> Internal SIH 2024</h1>
+      <h1 className="text-4xl  font-semibold mt-5 pb-10 text-center">Judges of the<br className="lg:hidden"/> Internal SIH 2024</h1>
       <div className="w-5/6 grid grid-cols-1 lg:grid-cols-3 ">
       <div className="relative flex my-5 flex-col items-center justify-between">
           <img src={anjaliMam} className="h-60 w-60 border-4 border-white  shadow-md" alt="" />
