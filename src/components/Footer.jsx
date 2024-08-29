@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <div className='w-screen py-5 bg-amber-600 flex justify-center items-center'>
         <div className='w-auto lg:w-10/12'>
-        <div className=' text-white font-semibold text-2xl mb-5'>Student Coordinators</div>
+        <div className=' text-white font-semibold text-3xl mb-5'>Student Coordinators</div>
         <div className='text-white flex flex-col lg:flex-row gap-5'>
             <li className='flex flex-col'> Tushar-3rd year
                 <div>9311706455</div>
