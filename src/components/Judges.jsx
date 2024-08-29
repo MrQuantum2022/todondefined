@@ -42,7 +42,7 @@ export default function Judges() {
         <div className="relative flex my-5 flex-col items-center justify-between">
           <img src={SummitSir} className="h-60 w-60 border-4 border-white  shadow-md" alt="" />
           <div className="  flex flex-col text-center">
-            <h1 className=" text-2xl font-semibold">Dr.Summit Aggarwal </h1>
+            <h1 className=" text-2xl font-semibold">Dr.Sumit Kumar Aggarwal </h1>
             <h2 className=" ">Assistant Professor</h2>
             <h2 className="text-sm w-72 lg:text-xs"><br></br>Dr. Sumit Kumar Agarwal is an Assistant Professor in the Department of Computer Science at Keshav Mahavidyalaya, University of Delhi, India. He received his PhD in Computer Science from the Department of Computer Science, University of Delhi in 2014. He has several publications in international journals and conferences and has also authored book chapters. He is an associate member of the Institution of Electronics and Communication Engineers (IETE), Delhi. His research interests include Web Intelligence, Multi-Agent Systems, Trust, Recommender Systems, Software Engineering and Aspect-oriented Programming.</h2>
           </div>
