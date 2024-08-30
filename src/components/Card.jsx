@@ -1,5 +1,5 @@
 import React from 'react'
-import banner from '../assets/sihbanner.jpg'
+import banner from '../assets/sih-updated.png'
 import { SlCalender } from "react-icons/sl";
 import { FaCommentDots } from "react-icons/fa";
 import Button from './Button';
@@ -10,7 +10,7 @@ export default function Card() {
         <div className='flex flex-col w-5/6 mx-7 '>
             <img src={banner} className='shadow-md' alt="" />
             <div className=''>
-                <div className='text-3xl my-2 w-100 font-semibold  text-justify'> Internal Hackathon for SIH(2024) is going to be held on September 04 in Keshav Mahavidyalaya </div>
+                <div className='text-3xl my-2 w-100 font-semibold '> Internal Hackathon for SIH(2024) is going to be held on September 04 in Keshav Mahavidyalaya </div>
                 <div className='flex justify-between items-center my-1 h-10' >
                   <div className='flex justify-center items-center gap-2 text-red-800'> <SlCalender />04/september/2024</div>
                   <div className='flex justify-center items-center gap-2  text-red-800' ><FaCommentDots/> leave comment </div>
