@@ -2,9 +2,9 @@ import React from 'react'
 
 export default function Guidelines() {
   return (
-    <div className='flex flex-col justify-center items-center mb-5'>
+    <div className='flex flex-col justify-center items-center mb-5 text-justify'>
         <h1 className='w-5/6 text-3xl font-semibold my-5'> <u>Rules for the Hackathon</u></h1>
-        <h2 className='w-5/6 text-md space-y-2 flex flex-col'>Team formation Guidelines:
+        <h2 className='w-5/6 text-md  space-y-2 flex flex-col'><span className='font-semibold'>Team formation Guidelines:</span>
         <span>1.All team members must be from the same college (no inter-college teams)</span>
         <span>2.Each team consists of 6 members, including the team leader</span>
         <span>3.At least one female team member is mandatory</span>
