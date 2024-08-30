@@ -11,7 +11,7 @@ export default function Guidelines() {
         <span>4.Only students selected in the internal hackathon can be registered for the Smart India Hackathon (SIH) 2024.</span>
         <span>5.Maximum 30 (25 shortlisted + 5 waitlisted) teams can participate in SIH.</span>
         <span>6.Project Scope: Teams can work on any project within the given theme or problem statement. The scope can be limited to a specific technology or platform based on the event's guidelines.</span>
-        <span>7.Time Limit: The Hackathon will have a specific time limit (10-12 mins).</span>
+        <span>7.Time Limit: The Hackathon will have a specific time limit (10-12 mins per team).</span>
         <span>8.Collaboration: Teams are encouraged to collaborate and seek help from mentors or organizers, but cross-team collaboration is not allowed during the competition.</span>
         <span>9.Presentation: Each team will have to present their project to the judging panel. The presentation should demonstrate the functionality and features of the project, as well as any unique or innovative aspects.</span>
         <span>10.Judging Criteria: The judging criteria for the Hackathon will be clearly communicated to the participants before the event. The result by the judge will be final. It may include aspects such as innovation, technical implementation, user experience, scalability, and relevance to the theme.</span>
