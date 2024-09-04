@@ -5,6 +5,7 @@ import BhavnaMam from "../assets/BhavnaMam.png"
 import anjaliMam from "../assets/anjaliMam.png"
 import ashutoshaSir from "../assets/AshutoshSir.png"
 import nehaMam from "../assets/NehaMam.png"
+import panjabisir from "../assets/panjabisir.jpg"
  
 export default function Judges() {
   return (
@@ -38,7 +39,7 @@ export default function Judges() {
         </div>
         
         </div>
-        <div className="w-5/6 grid grid-cols-1 lg:grid-cols-2">
+        <div className="w-5/6 grid grid-cols-1 lg:grid-cols-3">
         <div className="relative flex my-5 flex-col items-center justify-between">
           <img src={SummitSir} className="h-60 w-60 border-4 border-white  shadow-md" alt="" />
           <div className="  flex flex-col text-center">
@@ -56,8 +57,17 @@ export default function Judges() {
             His research expertise lies in image processing computer vision Natural language processing with a focus on innovative model architectures.His academic journey includes pushing the boundaries of AI and machine learning, both in theory and practical applications.</h2>
           </div>
         </div>
+        <div className="relative flex my-5  flex-col items-center justify-start">
+          <img src={panjabisir} className="h-60 w-60 border-4 border-white  shadow-md" alt="" />
+          <div className="  flex flex-col text-center">
+            <h1 className=" text-2xl font-semibold">Dr. Panjabi Singh </h1>
+            <h2 className=" ">Assistant Professor</h2>
+            <h2 className="text-sm w-72 lg:text-xs text-justify"><br></br>Dr.Panjabi Singh, Assistant Professor Department of Mathematics at Keshav Mahavidyalaya University of Delhi. Dr.Singh completed Ph.D in 2022 .His research interest in Applied Mathematics and also qualified CSIR NET with JRF and GATE.</h2>
+          </div>
+        </div>
         </div>
       </div>
+ 
 
   );
 }
